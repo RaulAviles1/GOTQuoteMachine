@@ -1,0 +1,9 @@
+body{
+  background-image:url(https://drive.google.com/uc?export=view&id=0B28YZRgK8TgLOXBrR1BSNXZPY2s);
+}
+.jumbotron{
+  text-align: center;
+  margin: 70px;
+  padding: 20px;
+  opacity: 0.82;
+}
